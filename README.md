@@ -13,4 +13,4 @@
 
 APP全程需要联网，期间只有一次SharedPreferences的缓存，用于在退出APP后重新进入的时候读取存储信息显示一个城市的天气情况。
 
-                                                                                                            By Lalmon
+By Lalmon
